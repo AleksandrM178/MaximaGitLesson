@@ -7,4 +7,4 @@ static int GetSum(int a, int b)
 {
     return a + b;
 }
-Console.WriteLine("Hello, World, Test, 2");
+Console.WriteLine("mouse");

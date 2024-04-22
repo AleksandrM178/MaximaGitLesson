@@ -5,6 +5,7 @@ Console.WriteLine(res);
 
 static int GetSum(int a, int b)
 {
-    return a + b;
+    return a + b + 4;
 }
 Console.WriteLine("Hello, World, Test, 2");
+MOUSE

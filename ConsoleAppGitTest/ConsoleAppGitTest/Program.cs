@@ -5,7 +5,9 @@ Console.WriteLine(res);
 
 static int GetSum(int a, int b)
 {
-    return a + b + 4;
+ 
+    return a + b + 82;
+ 
 }
 
 Console.WriteLine("MOUSE and TOP, 123, 456"); 

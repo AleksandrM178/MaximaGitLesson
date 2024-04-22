@@ -9,3 +9,5 @@ static int GetSum(int a, int b)
 }
 
 Console.WriteLine("MOUSE and TOP, 123, 456"); 
+
+Console.WriteLine("MOUSE and TOP"); 

@@ -5,6 +5,6 @@ Console.WriteLine(res);
 
 static int GetSum(int a, int b)
 {
-    return a + b + 3;
+    return a + b + 1;
 }
 Console.WriteLine(string.Concat(Enumerable.Repeat("-",10)));

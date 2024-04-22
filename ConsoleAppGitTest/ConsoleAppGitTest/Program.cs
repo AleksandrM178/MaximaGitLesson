@@ -1,3 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Привет, Git!!!");
-Console.ReadLine();
+var res = GetSum(20, 20);
+Console.WriteLine(res);
+
+
+static int GetSum(int a, int b)
+{
+    return a + b;
+}

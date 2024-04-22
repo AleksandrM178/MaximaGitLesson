@@ -5,6 +5,6 @@ Console.WriteLine(res);
 
 static int GetSum(int a, int b)
 {
-    return a + b;
+    return a + b + 82;
 }
 Console.WriteLine("Hello, World, Test, 2");

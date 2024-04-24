@@ -9,3 +9,13 @@ static int GetSum(int a, int b)
 }
 Console.WriteLine(string.Concat(Enumerable.Repeat("-",10)));
 Console.WriteLine("Всем и каждому по привету!");
+ 
+    return a + b + 82;
+}
+
+Console.WriteLine("MOUSE and TOP, 123, 456"); 
+
+  Console.WriteLine("MOUSE and TOP");
+
+ 
+Console.WriteLine("int a, int b"); 

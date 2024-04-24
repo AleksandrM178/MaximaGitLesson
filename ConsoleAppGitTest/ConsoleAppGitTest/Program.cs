@@ -7,7 +7,7 @@ int a = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите второе слагаемое");
 int b = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine(res);
+Console.WriteLine(GetSum(a, b));
 
 static int GetSum(int a, int b)
 {

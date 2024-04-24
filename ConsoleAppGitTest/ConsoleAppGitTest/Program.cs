@@ -7,10 +7,8 @@ Console.WriteLine("Введите первое слагаемое");
 int a = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите второе слагаемое");
 int b = Convert.ToInt32(Console.ReadLine());
-var res = GetSum(a, b);
 
 Console.WriteLine(res);
-
 
 static int GetSum(int a, int b)
 {
@@ -22,8 +20,6 @@ Console.WriteLine("Всем и каждому по привету!");
 Console.WriteLine("MOUSE and TOP, 123, 456"); 
 
 Console.WriteLine("MOUSE and TOP");
-
- 
 
 Console.WriteLine("int a, int b");
 

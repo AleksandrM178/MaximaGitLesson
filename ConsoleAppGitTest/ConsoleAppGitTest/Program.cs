@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-int s = 0;  
-var res = GetSum(20, 20);
+Console.WriteLine("Hello, Git!");
 
 Console.WriteLine("Введите первое слагаемое");
 int a = int.Parse(Console.ReadLine());
@@ -21,4 +20,7 @@ Console.WriteLine("MOUSE and TOP, 123, 456");
 Console.WriteLine("MOUSE and TOP");
 
 Console.WriteLine("int a, int b"); 
+
+Console.WriteLine("Hello, Git!");
+
 

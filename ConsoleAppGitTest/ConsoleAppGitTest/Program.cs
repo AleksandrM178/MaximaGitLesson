@@ -25,5 +25,7 @@ Console.WriteLine("int a, int b");
 
 Console.WriteLine("create new branch");
 
+Console.WriteLine("int a, int b");
+
 Console.WriteLine("int a, int b"); 
 

@@ -1,9 +1,14 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
+int s = 0;  
+var res = GetSum(20, 20);
+
 Console.WriteLine("Введите первое слагаемое");
 int a = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите второе слагаемое");
 int b = Convert.ToInt32(Console.ReadLine());
 var res = GetSum(a, b);
+
 Console.WriteLine(res);
 
 

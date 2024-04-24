@@ -5,9 +5,12 @@ Console.WriteLine(res);
 
 static int GetSum(int a, int b)
 {
+    return a + b + 3;
+}
+Console.WriteLine(string.Concat(Enumerable.Repeat("-",10)));
+Console.WriteLine("Всем и каждому по привету!");
  
     return a + b + 82;
- 
 }
 
 Console.WriteLine("MOUSE and TOP, 123, 456"); 
